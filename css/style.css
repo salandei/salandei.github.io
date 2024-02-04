@@ -400,7 +400,7 @@ img{
     width: 600px;
     align-content: center;
     text-align: center;
-    transform: translateX(-4rem);
+    /* transform: translateX(-4rem); */
 }
 
 .home__welcome{
@@ -1547,7 +1547,7 @@ img{
 
       .home__data{
         grid-column: initial;
-        transform: translateX(-4rem);
+        /* transform: translateX(-4rem); */
       }
 
       .contact__form{
