@@ -349,7 +349,6 @@ img{
 /* ===================== HOME ================== */
 
 .home{
-    height: 70vh;
     align-content: space-between;
     margin-top: var(--mb-3);
     padding-bottom: 0;
