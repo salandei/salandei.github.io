@@ -1537,10 +1537,6 @@ img{
         padding: 0;
       }
 
-      #home{
-        height: 85vh;
-      }
-
       .home__social{
         transform: translateX(-7.5rem);
       }
